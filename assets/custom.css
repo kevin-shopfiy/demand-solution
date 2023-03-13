@@ -1,0 +1,46 @@
+@media screen and (min-width: 641px){
+.shopify-section--timeline .Timeline{
+    margin-bottom: 18em !important;
+}
+.shopify-section--timeline .Timeline__Item{
+  display:block !important;
+}
+.shopify-section--timeline .Timeline__ImageWrapper,
+  .shopify-section--timeline .Timeline__Inner{
+    width:100% !important;
+    flex:none !important;
+  }
+  .Timeline__Inner h2,
+  .Timeline__Inner h3,
+  .Timeline__Inner p{
+    text-align:center !important;
+  }
+  
+.shopify-section--timeline .Timeline__Nav{
+  margin-bottom: 20px;
+}
+}
+
+
+/* Homepage */
+
+#shopify-section-shop-the-look .ShopTheLook__ProductItem .ProductItem__PriceList {
+  display: none;
+}
+
+
+
+/* Collection */
+
+body.template-collection .CollectionInner__Products .ProductItem .ProductItem__PriceList {
+ display: none;
+}
+
+form .verify-badge {
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+form .verify-badge a {
+  text-decoration: underline;
+}

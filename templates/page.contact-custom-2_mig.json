@@ -1,0 +1,32 @@
+{
+    "layout": "theme.liquid",
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "settings": {
+        }
+      },
+      "5a48b81e-84db-40f2-bbaa-2b0a264afe72": {
+        "type": "page-contact-template",
+        "blocks": {
+          "d58439a8-4bde-42cf-8166-a230ed7e5e08": {
+            "type": "text",
+            "settings": {
+              "title": "Your phone (optional)",
+              "use_long_text": false,
+              "is_required": false
+            }
+          }
+        },
+        "block_order": [
+          "d58439a8-4bde-42cf-8166-a230ed7e5e08"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "order": [
+      "main",
+      "5a48b81e-84db-40f2-bbaa-2b0a264afe72"
+    ]
+  }

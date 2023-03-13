@@ -1,0 +1,22 @@
+<div class="Container">
+  <header class="PageHeader">
+    <div class="SectionHeader SectionHeader--center">
+      <h1 class="SectionHeader__Heading Heading u-h1">{{ page.title }}</h1>
+    </div>
+  </header>
+
+  <div class="PageContent PageContent--narrow Rte">
+    {{ page.content }}
+  </div>
+</div>
+
+<div class="change location_of_section">
+  {% section 'page-slider' %}
+  {% comment %}{% section 'page-timeline' %}{% endcomment %}
+  {% section 'contact-form' %}
+</div>
+<style>
+  .Container .PageContent {
+    margin-bottom: 0;
+  }
+</style>

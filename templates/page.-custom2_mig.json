@@ -1,0 +1,136 @@
+{
+  "layout": "theme.liquid",
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "0a78741d-beda-4f06-ab39-7d1fb2df37c5": {
+      "type": "page-slider3",
+      "blocks": {
+        "template--16031041487019__0a78741d-beda-4f06-ab39-7d1fb2df37c5-16743185538ada5d59-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "template--16031041487019__0a78741d-beda-4f06-ab39-7d1fb2df37c5-16743185538ada5d59-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_aae8978a-70ca-4465-ae29-8ad8a6e754a4.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "pear3d",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "73eaa068-8280-45f3-8291-55bf910f9a54": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_cae0a2b3-1830-4b65-8795-352924984f47.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16031041487019__0a78741d-beda-4f06-ab39-7d1fb2df37c5-16743185538ada5d59-0",
+        "template--16031041487019__0a78741d-beda-4f06-ab39-7d1fb2df37c5-16743185538ada5d59-1",
+        "73eaa068-8280-45f3-8291-55bf910f9a54"
+      ],
+      "settings": {
+        "slider_location": "1",
+        "show_slider": true,
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "ab8a0b77-f305-4694-b486-6116864ea31b": {
+      "type": "blog-timeline",
+      "blocks": {
+        "template--16031041487019__ab8a0b77-f305-4694-b486-6116864ea31b-167431879612bcc280-0": {
+          "type": "item",
+          "settings": {
+            "apply_overlay": false,
+            "title": "2000",
+            "subheading": "Sub-heading",
+            "heading": "Heading",
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16031041487019__ab8a0b77-f305-4694-b486-6116864ea31b-167431879612bcc280-0"
+      ],
+      "settings": {
+        "enable": false,
+        "text_color": "#ffffff"
+      }
+    },
+    "630dbb79-1532-479e-a91b-c71f330380fd": {
+      "type": "page-contact-template",
+      "blocks": {
+        "12347c47-8af7-4d1d-bab6-d9509d2115be": {
+          "type": "text",
+          "settings": {
+            "title": "Business Name",
+            "use_long_text": false,
+            "is_required": true
+          }
+        },
+        "a8b434ce-1e0c-41fd-88f7-c39f69f3e6e8": {
+          "type": "text",
+          "settings": {
+            "title": "Phone Number (optional)",
+            "use_long_text": false,
+            "is_required": false
+          }
+        },
+        "f49d4b1e-36bb-4d3d-a00e-6a39b15f3886": {
+          "type": "dropdown",
+          "settings": {
+            "title": "I would like to learn more about",
+            "values": "MegaPeel EX Microdermabrasion Machine, MiTama Microcurrent Device, The Pear 3D Skin Scanner, dmGlow Signature Treatment, dmSkincare, Professional Protocols, Other"
+          }
+        }
+      },
+      "block_order": [
+        "12347c47-8af7-4d1d-bab6-d9509d2115be",
+        "a8b434ce-1e0c-41fd-88f7-c39f69f3e6e8",
+        "f49d4b1e-36bb-4d3d-a00e-6a39b15f3886"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0a78741d-beda-4f06-ab39-7d1fb2df37c5",
+    "ab8a0b77-f305-4694-b486-6116864ea31b",
+    "630dbb79-1532-479e-a91b-c71f330380fd"
+  ]
+}

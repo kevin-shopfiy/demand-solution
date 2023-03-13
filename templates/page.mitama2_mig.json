@@ -1,0 +1,440 @@
+{
+  "sections": {
+    "16c0705f-192c-40a6-a96e-503c69471488": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "facial therapy rooted in science",
+        "title": "Why Tama Microcurrent?",
+        "image": "shopify:\/\/shop_images\/BlueOnyx.jpg",
+        "image_position": "right",
+        "content": "<p><br\/><strong>REVERSE THE SIGNS OF AGING<\/strong><br\/><strong>BRIGHTEN & REVITALIZE YOUR SKIN<\/strong><br\/><strong>APPEAR TONED & LIFTED<\/strong><\/p><p><strong>All in a \"hands-free\" 10-20 min treatment<\/strong><\/p><p>Tama's unique technology combines the intertwining frequencies of TAMA’s  MetaWave™ to deliver facial therapy (microcurrent).<\/p><p><strong>TAMA devices stimulate the facial tissues to promote skin rejuvenation & cell renewal. This stimulus promotes cell activity and, as a result, the face looks brighter and revitalized, resulting in a healthier, glowing and toned appearance.<\/strong><\/p><p>TAMA devices are proudly built in America and are FDA cleared.<\/p>",
+        "link_text": "Contact Us To Learn More",
+        "link_url": "shopify:\/\/pages\/contact-us-1"
+      }
+    },
+    "302e0d6c-31bc-4a4a-ac27-b10b23e7ce1b": {
+      "type": "text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "POWERFUL RESULTS as early as the first treatment",
+        "title": "A Combination of Technology + Science",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-09_at_4.26.45_PM.png",
+        "image_position": "left",
+        "content": "<p>Within the body, each tissue operates at a specific frequency. TAMA’s patented technology combines and delivers every frequency in each pulse. This specific composite frequency is called TAMA MetaWaveTM.<br\/><\/p><p>The result is a faster response to treatment and a more effective + efficient delivery as no energy is left over to cause heat or damage (inflammation).<\/p><p>The microcurrent signals communicate through the skin at a cellular level to rejuvenate and amplify the healing of the cells by activating their natural repair and refresh functions.<\/p><p>*Randomized clinical trials reported results as early as the first treatment; however, a series of 6 treatments is optimal. Results indicate continued improvement over a six-month period.<br\/><\/p><p><\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "f508b91a-e54f-4b5e-88cd-a2d13b5e7222": {
+      "type": "text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "MEGAPEEL EX",
+        "title": "Lymphatic drainage Boost",
+        "image": "shopify:\/\/shop_images\/4.png",
+        "image_position": "right",
+        "content": "<p>Use the lymphatic vacuum suction to increase<br\/>lymphatic flow. +detoxify<\/p><p>+Increase blood circulation+Helps relieve muscle & fascia tension <\/p><p>+Reduces puffiness & softens fine lines and wrinkles<\/p><p>+Increases product absorption ~ Promotes cell repair<br\/>vacuum suction “to provide a measured and steady intensity to the <br\/>lymphatic drainage. I’ve had excellent results for people who have sinus<br\/> and ear problems, including frequent flyers. Skin can be instantly <br\/>de-puffed, and where there is ‘adhesion’ with muscle fibres and <br\/>connective tissue (fascia), lymphatic drainage helps free this. That can<br\/> reduce the appearance of fine lines and wrinkles and <a href=\"https:\/\/www.etrevous.com\/Blogs\/Treatments\/Body\/sculpt-and-tone-up-without-having-to-hit-the-gym\" target=\"_blank\">help lift and tone the muscles<\/a>.”<br\/> And there’s more: “lymphatic drainage helps draw impurities up and out <br\/>of the skin, so I use it to relieve hormonal and cystic breakouts,” says<br\/> Clare. Dr Anna Hemming of Thames Skin Clinic agrees, favouring regular <br\/>Hydrafacials “to stimulate lymph drainage, which improves skin health <br\/>and helps with oil control.”<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "6b8cf084-6d64-4d89-a943-8cba9ee47d75": {
+      "type": "page-slider",
+      "blocks": {
+        "a87df573-77aa-4b32-bb8d-2dbfa16b6b4c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TAMA_website_images.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TAMA_website_images.jpg",
+            "apply_overlay": false,
+            "content_position": "middleRight",
+            "subheading": "Cheek, Eyelid + Jowl Lift",
+            "title": "After 1 treatment",
+            "button_1_text": "tama microcurrent",
+            "button_1_link": "shopify:\/\/pages\/microcurrent-device-comparison",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "template--15956241449131__6b8cf084-6d64-4d89-a943-8cba9ee47d75-1667565929f5614ed2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TAMA_website_images-2.jpg",
+            "apply_overlay": false,
+            "content_position": "middleRight",
+            "subheading": "Plumped + vibrant Skin",
+            "title": "After 1 treatment",
+            "button_1_text": "TAMA MICROCURRENT",
+            "button_1_link": "shopify:\/\/pages\/microcurrent-device-comparison",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "template--15956241449131__6b8cf084-6d64-4d89-a943-8cba9ee47d75-1667565929f5614ed2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TAMA_website_images-3.jpg",
+            "apply_overlay": false,
+            "content_position": "middleRight",
+            "subheading": "Detox. Lift. Tone.",
+            "title": "After 1 treatment",
+            "button_1_text": "TAMA MICROCURRENT",
+            "button_1_link": "shopify:\/\/pages\/microcurrent-device-comparison",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "da56f817-b28a-4623-b156-895b66c9fe46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/12.jpg",
+            "apply_overlay": false,
+            "content_position": "middleRight",
+            "subheading": "Detox + Deep Structural Benefits",
+            "title": "After 1 treatment",
+            "button_1_text": "TAMA MICROCURRENT",
+            "button_1_link": "shopify:\/\/pages\/microcurrent-device-comparison",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "17e932e8-b8f1-4cc2-adfb-3194f5924e8b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-16_at_10.18.12_AM.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a87df573-77aa-4b32-bb8d-2dbfa16b6b4c",
+        "template--15956241449131__6b8cf084-6d64-4d89-a943-8cba9ee47d75-1667565929f5614ed2-0",
+        "template--15956241449131__6b8cf084-6d64-4d89-a943-8cba9ee47d75-1667565929f5614ed2-1",
+        "da56f817-b28a-4623-b156-895b66c9fe46",
+        "17e932e8-b8f1-4cc2-adfb-3194f5924e8b"
+      ],
+      "settings": {
+        "slider_location": "0",
+        "show_slider": true,
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "00a65dda-d99f-4f3f-bcda-df23036ae887": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "the gold standard in aesthetic + medical microdermabrasion equipment",
+        "title": "Big Benefits to Your CLIENTS + YOUR Bottom Line",
+        "html": "<body>\n\n\n\n\t<title><\/title>\n\t<meta content=\"summary_large_image\" name=\"twitter:card\">\n\t<meta content=\"website\" property=\"og:type\">\n\t<meta content=\"\" property=\"og:description\">\n\t<meta content=\"https:\/\/4zeerzoa2e.preview-postedstuff.com\/V2-mmlC-sxez-rvyi-sFGa\/\" property=\"og:url\">\n\t<meta content=\"https:\/\/pro-bee-beepro-thumbnail.getbee.io\/messages\/645641\/627797\/1312451\/8413077_large.jpg\" property=\"og:image\">\n\t<meta content=\"\" property=\"og:title\">\n\t<meta content=\"\" name=\"description\">\n\t<meta charset=\"utf-8\">\n\t<meta content=\"width=device-width\" name=\"viewport\">\n\t<link href=\"https:\/\/fonts.googleapis.com\/css?family=Montserrat\" rel=\"stylesheet\" type=\"text\/css\">\n\t<style>\n\t\t.bee-row,\n\t\t.bee-row-content {\n\t\t\tposition: relative\n\t\t}\n\n\t\t.bee-row-1,\n\t\t.bee-row-2 {\n\t\t\tbackground-repeat: no-repeat\n\t\t}\n\n\t\t.bee-button .content {\n\t\t\ttext-align: center\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1 .bee-block-2,\n\t\t.bee-row-1 .bee-col-1 .bee-block-5,\n\t\t.bee-row-1 .bee-col-1 .bee-block-8,\n\t\t.bee-row-1 .bee-col-2 .bee-block-2,\n\t\t.bee-row-1 .bee-col-2 .bee-block-5,\n\t\t.bee-row-1 .bee-col-2 .bee-block-8 {\n\t\t\tcolor: #2b2b2b;\n\t\t\tdirection: ltr;\n\t\t\tfont-size: 15px;\n\t\t\tfont-weight: 400;\n\t\t\tletter-spacing: 0;\n\t\t\tline-height: 120%;\n\t\t\ttext-align: left\n\t\t}\n\n\t\tbody {\n\t\t\tbackground-color: transparent;\n\t\t\tcolor: #000;\n\t\t\tfont-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif\n\t\t}\n\n\t\ta {\n\t\t\tcolor: #008f8c\n\t\t}\n\n\t\t* {\n\t\t\tbox-sizing: border-box\n\t\t}\n\n\t\tbody,\n\t\th3,\n\t\tp {\n\t\t\tmargin: 0\n\t\t}\n\n\t\t.bee-row-content {\n\t\t\tmax-width: 1200px;\n\t\t\tmargin: 0 auto;\n\t\t\tdisplay: flex\n\t\t}\n\n\t\t.bee-row-content .bee-col-w4 {\n\t\t\tflex-basis: 33%\n\t\t}\n\n\t\t.bee-row-content .bee-col-w6 {\n\t\t\tflex-basis: 50%\n\t\t}\n\n\t\t.bee-button a {\n\t\t\ttext-decoration: none\n\t\t}\n\n\t\t.bee-divider {\n\t\t\toverflow: auto\n\t\t}\n\n\t\t.bee-divider .center {\n\t\t\tmargin: 0 auto\n\t\t}\n\n\t\t.bee-paragraph {\n\t\t\toverflow-wrap: anywhere\n\t\t}\n\n\t\t@media (max-width:768px) {\n\t\t\t.bee-row-content:not(.no_stack) {\n\t\t\t\tdisplay: block\n\t\t\t}\n\t\t}\n\n\t\t.bee-row-1 .bee-row-content,\n\t\t.bee-row-2 .bee-row-content {\n\t\t\tbackground-repeat: no-repeat;\n\t\t\tcolor: #000\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1,\n\t\t.bee-row-1 .bee-col-2 {\n\t\t\tpadding-left: 20px;\n\t\t\tpadding-right: 20px;\n\t\t\tpadding-top: 10px\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1 .bee-block-1,\n\t\t.bee-row-1 .bee-col-1 .bee-block-4,\n\t\t.bee-row-1 .bee-col-1 .bee-block-7,\n\t\t.bee-row-1 .bee-col-2 .bee-block-1,\n\t\t.bee-row-1 .bee-col-2 .bee-block-4,\n\t\t.bee-row-1 .bee-col-2 .bee-block-7 {\n\t\t\ttext-align: center;\n\t\t\twidth: 100%\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1 .bee-block-2,\n\t\t.bee-row-1 .bee-col-1 .bee-block-5,\n\t\t.bee-row-1 .bee-col-1 .bee-block-8,\n\t\t.bee-row-1 .bee-col-2 .bee-block-2,\n\t\t.bee-row-1 .bee-col-2 .bee-block-5 {\n\t\t\tpadding-top: 5px\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1 .bee-block-3,\n\t\t.bee-row-1 .bee-col-1 .bee-block-6,\n\t\t.bee-row-1 .bee-col-2 .bee-block-3,\n\t\t.bee-row-1 .bee-col-2 .bee-block-6 {\n\t\t\tpadding-bottom: 10px;\n\t\t\tpadding-top: 10px\n\t\t}\n\n\t\t.bee-row-1 .bee-col-2 .bee-block-8 {\n\t\t\tpadding-top: 5px\n\t\t}\n\n\t\t.bee-row-2 .bee-col-1,\n\t\t.bee-row-2 .bee-col-2,\n\t\t.bee-row-2 .bee-col-3 {\n\t\t\tpadding-bottom: 5px;\n\t\t\tpadding-top: 5px\n\t\t}\n\n\t\t.bee-row-2 .bee-col-1 .bee-block-1 {\n\t\t\tpadding: 10px;\n\t\t\ttext-align: left\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1 .bee-block-2 a,\n\t\t.bee-row-1 .bee-col-1 .bee-block-5 a,\n\t\t.bee-row-1 .bee-col-1 .bee-block-8 a,\n\t\t.bee-row-1 .bee-col-2 .bee-block-2 a,\n\t\t.bee-row-1 .bee-col-2 .bee-block-5 a,\n\t\t.bee-row-1 .bee-col-2 .bee-block-8 a {\n\t\t\tcolor: #8a3b8f\n\t\t}\n\n\t\t.bee-row-1 .bee-col-1 .bee-block-2 p:not(:last-child),\n\t\t.bee-row-1 .bee-col-1 .bee-block-5 p:not(:last-child),\n\t\t.bee-row-1 .bee-col-1 .bee-block-8 p:not(:last-child),\n\t\t.bee-row-1 .bee-col-2 .bee-block-2 p:not(:last-child),\n\t\t.bee-row-1 .bee-col-2 .bee-block-5 p:not(:last-child),\n\t\t.bee-row-1 .bee-col-2 .bee-block-8 p:not(:last-child) {\n\t\t\tmargin-bottom: 16px\n\t\t}\n\t<\/style>\n\n\n\n\t<div class=\"bee-page-container\">\n\t\t<div class=\"bee-row bee-row-1\">\n\t\t\t<div class=\"bee-row-content\">\n\t\t\t\t<div class=\"bee-col bee-col-1 bee-col-w6\">\n\t\t\t\t\t<div class=\"bee-block bee-block-1 bee-heading\">\n\t\t\t\t\t\t<h3 style=\"color:#2b2b2b;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;\">\n<span class=\"tinyMce-placeholder\">Crystal Microdermabrasion<\/span> <\/h3>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-2 bee-paragraph\">\n\t\t\t\t\t\t<p>Give your clients clear and radiant skin by removing dead skin cells, promoting new cell + collagen growth,  and providing a safe and even exfoliation for all skin types<\/p>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-3 bee-divider\">\n\t\t\t\t\t\t<div class=\"center bee-separator\" style=\"border-top:1px solid #CE8733;width:100%;\"><\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-4 bee-heading\">\n\t\t\t\t\t\t<h3 style=\"color:#2b2b2b;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;\">\n<span class=\"tinyMce-placeholder\">Lymphatic Boost<\/span> <\/h3>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-5 bee-paragraph\">\n\t\t\t\t\t\t<p>A vacuum suction hand-piece increases lymphatic flow to detoxify, increase blood circulation, help relieve muscle + fascia tension, and reduce puffiness + fine lines<\/p>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-6 bee-divider\">\n\t\t\t\t\t\t<div class=\"center bee-separator\" style=\"border-top:1px solid #CE8733;width:100%;\"><\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-7 bee-heading\">\n\t\t\t\t\t\t<h3 style=\"color:#2b2b2b;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;\">\n<span class=\"tinyMce-placeholder\"> Only True Microdermabrasion Technique<br role=\"presentation\">Recognized by the FDA<\/span> <\/h3>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-8 bee-paragraph\">\n\t\t\t\t\t\t<p>Fine stainless steel, electroplated wands that deliver a jet of fine mineral crystals creating gentle skin exfoliation<\/p>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"bee-col bee-col-2 bee-col-w6\">\n\t\t\t\t\t<div class=\"bee-block bee-block-1 bee-heading\">\n\t\t\t\t\t\t<h3 style=\"color:#2b2b2b;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;\">\n<span class=\"tinyMce-placeholder\">Completely Customizable<\/span> <\/h3>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-2 bee-paragraph\">\n\t\t\t\t\t\t<p>Independently control the crystal flow + vacuum pressure for  treatment customization. Choose from 15+ protocols because one-size-does-not-fit-all for skincare protocols<\/p>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-3 bee-divider\">\n\t\t\t\t\t\t<div class=\"center bee-separator\" style=\"border-top:1px solid #CE8733;width:100%;\"><\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-4 bee-heading\">\n\t\t\t\t\t\t<h3 style=\"color:#2b2b2b;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;\">\n<span class=\"tinyMce-placeholder\">HEPA Filter Cartridge<\/span> <\/h3>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-5 bee-paragraph\">\n\t\t\t\t\t\t<p>A HEPA filter cartridge keeps bio-contaminated waste safely contained, easily disposed of + prevents clogging (a missed revenue opportunity while fixing it)<\/p>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-6 bee-divider\">\n\t\t\t\t\t\t<div class=\"center bee-separator\" style=\"border-top:1px solid #CE8733;width:100%;\"><\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-7 bee-heading\">\n\t\t\t\t\t\t<h3 style=\"color:#2b2b2b;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;\">\n<span class=\"tinyMce-placeholder\">MegaPeel EX Design<\/span> <\/h3>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"bee-block bee-block-8 bee-paragraph\">\n\t\t\t\t\t\t<p>Sleek, portable and lightweight, ergonomically designed hand-piece to diminish hand fatigue<\/p>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"bee-row bee-row-2\">\n\t\t\t<div class=\"bee-row-content\">\n\t\t\t\t<div class=\"bee-col bee-col-1 bee-col-w4\">\n\t\t\t\t\t<div class=\"bee-block bee-block-1 bee-button\"><a class=\"bee-button-content\" href=\"https:\/\/www.dermamedsolutions.com\/pages\/megapeelex-sales\" style=\"font-family: inherit; font-size: 26px; background-color: #000000; border-bottom: 3px solid #000000; border-left: 3px solid #000000; border-radius: 4px; border-right: 3px solid #000000; border-top: 3px solid #000000; color: #ffffff; direction: ltr; font-weight: 400; max-width: 100%; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; padding-top: 0px; width: auto; display: inline-block;\"><span dir=\"ltr\" style=\"margin: 0; word-break: break-word; font-size: 26px; line-height: 200%;\">Contact Sales<\/span><\/a><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"bee-col bee-col-2 bee-col-w4\"><\/div>\n\t\t\t\t<div class=\"bee-col bee-col-3 bee-col-w4\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\n\n<\/body>"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "a1d8ad85-66ec-4f2f-9fdf-b77ba5c5640e": {
+      "type": "background-video",
+      "disabled": true,
+      "settings": {
+        "section_size": "normal",
+        "video_url": "https:\/\/vimeo.com\/581913579"
+      }
+    },
+    "ba800fbc-6372-400c-ab29-d6c71a99babd": {
+      "type": "image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-09_at_4.49.17_PM.png",
+        "background": "#ffffff",
+        "text_color": "#1c1b1b",
+        "block_size": "large",
+        "title": "TAMA METAWAVE",
+        "content": "<p>MetaWaveTM frequencies and waveforms are designed so that this bio-electromagnetic current can penetrate at various depths within the skin tissue.<\/p><p>Each waveform delivers a specific electromagnetic energy field that can be used<br\/>independently or in combination with others to offer a wide range of personalized and sustainable skin treatments.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "show_parallax": true
+      }
+    },
+    "48961011-79db-4282-9685-ed95013ad8aa": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "template--15967056986283__48961011-79db-4282-9685-ed95013ad8aa-1668030078ff3c5e06-0": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>MetaWave Channel Properties<br\/>DERMAL WAVE <\/p><p><strong>PENETRATE + GLOW + SUPERCHARGE<\/strong><\/p>"
+          }
+        },
+        "template--15967056986283__48961011-79db-4282-9685-ed95013ad8aa-1668030078ff3c5e06-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>MetaWave Channel Properties<br\/>SURFACE WAVE <\/p><p><strong>REJUVENATE + ACTIVATE + STIMULATE<\/strong><\/p>"
+          }
+        },
+        "template--15967056986283__48961011-79db-4282-9685-ed95013ad8aa-1668030078ff3c5e06-2": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>MetaWave Channel Properties<br\/>DETOX WAVE <\/p><p><strong>RELIEVE + OXYGENATE<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15967056986283__48961011-79db-4282-9685-ed95013ad8aa-1668030078ff3c5e06-0",
+        "template--15967056986283__48961011-79db-4282-9685-ed95013ad8aa-1668030078ff3c5e06-1",
+        "template--15967056986283__48961011-79db-4282-9685-ed95013ad8aa-1668030078ff3c5e06-2"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaf7fd",
+        "text_color": "#454545"
+      }
+    },
+    "8ad63142-0855-4125-832b-b2cd53e3f60e": {
+      "type": "blog-timeline",
+      "blocks": {
+        "template--15967056986283__8ad63142-0855-4125-832b-b2cd53e3f60e-167413495166008b5b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Deluxe_Treatment.jpg",
+            "apply_overlay": true,
+            "title": "Touchless Technology",
+            "subheading": "a new standard for equipment in the beauty industry",
+            "heading": "Give yourself time back",
+            "content": "<p>TAMA state-of-the-art technology + its unique capability to offer Touch-less Therapy – in addition to skilled, hands-on services – has set a new standard for equipment.<\/p><p>The patented modulated frequencies, along with treatment methods + outstanding quality, sets TAMA apart. Whether you choose a 10 or 20 min Touchless program or a combination with hands-on, TAMA will give your clients powerful results.<br\/><\/p><p><\/p>"
+          }
+        },
+        "template--15967056986283__8ad63142-0855-4125-832b-b2cd53e3f60e-167413495166008b5b-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-09_at_4.49.17_PM.png",
+            "apply_overlay": true,
+            "title": "Microcurrent",
+            "subheading": "MetaWave Channel Properties",
+            "heading": "Microcurrent MetaWave",
+            "content": "<p>MetaWave frequencies and waveforms are designed so that this bio-electromagnetic current can penetrate at various depths within the skin tissue.<\/p><p>Each waveform delivers a specific electromagnetic energy field that can be used<br\/>independently or in combination with others to offer a wide range of personalized and sustainable skin treatments. Learn more here. <br\/><\/p>"
+          }
+        },
+        "template--15967056986283__8ad63142-0855-4125-832b-b2cd53e3f60e-167413495166008b5b-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B_and_A_eyes_PNG.png",
+            "apply_overlay": true,
+            "title": "Powerful Results",
+            "subheading": "results as early as the first treatment",
+            "heading": "Powerful results",
+            "content": "<ul><li>Rebuild and Strengthen Facial Muscles<\/li><li>Safe alternative to Micro Needling<\/li><li>Reduce Fine Lines And Wrinkles<\/li><li>Define Cheek Bones and Jaw Line<\/li><li>Improve Elasticity and Skin Tone<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15967056986283__8ad63142-0855-4125-832b-b2cd53e3f60e-167413495166008b5b-0",
+        "template--15967056986283__8ad63142-0855-4125-832b-b2cd53e3f60e-167413495166008b5b-1",
+        "template--15967056986283__8ad63142-0855-4125-832b-b2cd53e3f60e-167413495166008b5b-2"
+      ],
+      "settings": {
+        "enable": true,
+        "text_color": "#ffffff"
+      }
+    },
+    "ec37893e-fcf8-4736-9d89-955c56178af9": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "the next generation of facials",
+        "title": "FIND OUT MORE TODAY!",
+        "html": "<div class=\"bee-block bee-block-1 bee-button\"><a class=\"bee-button-content\" href=\"https:\/\/www.dermamedsolutions.com\/pages\/megapeelex-sales\" style=\"font-family: inherit; font-size: 26px; background-color: #000000; border-bottom: 3px solid #000000; border-left: 3px solid #000000; border-radius: 4px; border-right: 3px solid #000000; border-top: 3px solid #000000; color: #ffffff; direction: ltr; font-weight: 400; max-width: 100%; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; padding-top: 0px; width: auto; display: inline-block;\"><span dir=\"ltr\" style=\"margin: 0; word-break: break-word; font-size: 26px; line-height: 200%;\">Contact Sales<\/span><\/a><\/div>"
+      }
+    },
+    "a99a0a75-13b5-4009-9267-866c6a0462b9": {
+      "type": "shop-the-look",
+      "blocks": {
+        "template--15967056986283__a99a0a75-13b5-4009-9267-866c6a0462b9-1673982945aef393ea-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BlueOnyx.jpg",
+            "dot_style": "dark",
+            "product_1": "tama-blue-onyx-microcurrent",
+            "product_1_horizontal_position": 65,
+            "product_1_vertical_position": 33,
+            "product_2": "microcurrent-tama-probes-gloves",
+            "product_2_horizontal_position": 48,
+            "product_2_vertical_position": 79,
+            "product_3": "microcurrent-tama-cutaneous-electrodes",
+            "product_3_horizontal_position": 79,
+            "product_3_vertical_position": 81
+          }
+        },
+        "0f9b6062-7723-4ff4-a964-cd45138bae1e": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-19_at_12.46.06_PM_e2d03ba7-28b7-4097-a862-6925d1525e1b.png",
+            "dot_style": "dark",
+            "product_1": "microcurrent-mitama-deluxe",
+            "product_1_horizontal_position": 31,
+            "product_1_vertical_position": 30,
+            "product_2": "microcurrent-tama-conductive-gloves",
+            "product_2_horizontal_position": 37,
+            "product_2_vertical_position": 75,
+            "product_3": "microcurrent-tama-cutaneous-electrodes",
+            "product_3_horizontal_position": 67,
+            "product_3_vertical_position": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--15967056986283__a99a0a75-13b5-4009-9267-866c6a0462b9-1673982945aef393ea-0",
+        "0f9b6062-7723-4ff4-a964-cd45138bae1e"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "TWO DIFFERENT DEVICES with powerful results",
+        "show_mobile_product_info": false
+      }
+    },
+    "bd450972-76d4-43d7-aef0-9cea6f8d15f9": {
+      "type": "page-timeline",
+      "disabled": true,
+      "blocks": {
+        "template--15967056986283__bd450972-76d4-43d7-aef0-9cea6f8d15f9-1674147965356012f5-1": {
+          "type": "item",
+          "settings": {
+            "link": "",
+            "apply_overlay": true,
+            "title": "2001",
+            "subheading": "Sub-heading",
+            "heading": "Heading",
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        },
+        "template--15967056986283__bd450972-76d4-43d7-aef0-9cea6f8d15f9-1674147965356012f5-2": {
+          "type": "item",
+          "settings": {
+            "link": "",
+            "apply_overlay": true,
+            "title": "2002",
+            "subheading": "Sub-heading",
+            "heading": "Heading",
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15967056986283__bd450972-76d4-43d7-aef0-9cea6f8d15f9-1674147965356012f5-1",
+        "template--15967056986283__bd450972-76d4-43d7-aef0-9cea6f8d15f9-1674147965356012f5-2"
+      ],
+      "settings": {
+        "enable": true,
+        "text_color": "#ffffff"
+      }
+    },
+    "6af6baee-6d55-43c2-930b-ca7006767cf9": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "Surface wave",
+        "title": "Rejuvenate + Stimulate",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-19_at_12.12.55_PM.png",
+        "image_position": "left",
+        "content": "<p>Reduce fine lines + wrinkes, increase collagen production + length of elastin fibers as well as blood circulation.<\/p><p>*All reported results from Tama studies and research<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "e701e405-cf3d-430d-90d1-7d1d592f9cee": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "deep tissue wave",
+        "title": "Lift, Tone + BUILD",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-19_at_12.13.09_PM.png",
+        "image_position": "right",
+        "content": "<p>Stimulate the muscles to lift and contour and turn back the aging clock for your clients<\/p><p>*All reported results from Tama studies and research<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "edeabe68-3506-45b7-9d77-295a55284645": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "DETOX WAVE",
+        "title": "RELIEVE + OXYGENATE",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-19_at_12.13.02_PM.png",
+        "image_position": "left",
+        "content": "<p>Increase lymphatic drainage (puffiness) + blood circulation, relieve muscle tension + inflammation and help heal scars\/wounds.<\/p><p>*All reported results from Tama studies and research<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "1c8582c1-028b-471c-9165-83c609c2fdaa": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "Dermal layer",
+        "title": "PENETRATE + GLOW",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-19_at_12.12.19_PM.png",
+        "image_position": "right",
+        "content": "<p>Increase product penetration without polarizing cells. An excellent alternative to microneedling with no downtime. <\/p><p>*All reported results from Tama studies and research<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "36d0b4b6-6d01-4e34-8838-3c07cacb8e1c": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15967056986283__36d0b4b6-6d01-4e34-8838-3c07cacb8e1c-1674153030731bf4b6-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "microcurrent",
+            "title": "Microcurrent machines",
+            "grid_items_count": 2,
+            "button_text": "Compare Devices"
+          }
+        }
+      },
+      "block_order": [
+        "template--15967056986283__36d0b4b6-6d01-4e34-8838-3c07cacb8e1c-1674153030731bf4b6-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "carousel",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "1",
+        "grid_desktop_items_per_row": 2
+      }
+    }
+  },
+  "order": [
+    "16c0705f-192c-40a6-a96e-503c69471488",
+    "302e0d6c-31bc-4a4a-ac27-b10b23e7ce1b",
+    "f508b91a-e54f-4b5e-88cd-a2d13b5e7222",
+    "6b8cf084-6d64-4d89-a943-8cba9ee47d75",
+    "00a65dda-d99f-4f3f-bcda-df23036ae887",
+    "main",
+    "a1d8ad85-66ec-4f2f-9fdf-b77ba5c5640e",
+    "ba800fbc-6372-400c-ab29-d6c71a99babd",
+    "48961011-79db-4282-9685-ed95013ad8aa",
+    "8ad63142-0855-4125-832b-b2cd53e3f60e",
+    "ec37893e-fcf8-4736-9d89-955c56178af9",
+    "a99a0a75-13b5-4009-9267-866c6a0462b9",
+    "bd450972-76d4-43d7-aef0-9cea6f8d15f9",
+    "6af6baee-6d55-43c2-930b-ca7006767cf9",
+    "e701e405-cf3d-430d-90d1-7d1d592f9cee",
+    "edeabe68-3506-45b7-9d77-295a55284645",
+    "1c8582c1-028b-471c-9165-83c609c2fdaa",
+    "36d0b4b6-6d01-4e34-8838-3c07cacb8e1c"
+  ]
+}

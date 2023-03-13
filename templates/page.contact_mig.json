@@ -1,0 +1,49 @@
+{
+    "layout": "theme.liquid",
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "settings": {
+        }
+      },
+      "502269a1-94c1-491f-8546-b436d8b5a0dd": {
+        "type": "page-contact-template",
+        "blocks": {
+          "c67a222a-8c7d-4611-8033-c45ee22cb8ef": {
+            "type": "text",
+            "settings": {
+              "title": "Business Name",
+              "use_long_text": false,
+              "is_required": true
+            }
+          },
+          "28ba3532-90c0-4259-9416-4222191ed857": {
+            "type": "text",
+            "settings": {
+              "title": "Phone Number (optional)",
+              "use_long_text": false,
+              "is_required": false
+            }
+          },
+          "14d3b7eb-3358-49af-972a-ca8d4dce8fd6": {
+            "type": "dropdown",
+            "settings": {
+              "title": "I would like to learn more about",
+              "values": "MegaPeel EX Microdermabrasion Machine, MiTama Microcurrent Device, The Pear 3D Skin Scanner, dmGlow Signature Treatment, dmSkincare, Professional Protocols, Other"
+            }
+          }
+        },
+        "block_order": [
+          "c67a222a-8c7d-4611-8033-c45ee22cb8ef",
+          "28ba3532-90c0-4259-9416-4222191ed857",
+          "14d3b7eb-3358-49af-972a-ca8d4dce8fd6"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "order": [
+      "main",
+      "502269a1-94c1-491f-8546-b436d8b5a0dd"
+    ]
+  }

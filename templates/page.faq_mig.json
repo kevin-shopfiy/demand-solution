@@ -1,0 +1,92 @@
+{
+    "layout": "theme.liquid",
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "settings": {
+        }
+      },
+      "36659651-c1ec-4a4a-a848-90893ea5c474": {
+        "type": "page-faq-template",
+        "blocks": {
+          "a1b7fb2f-2972-4e87-bb21-5edf3e713e96": {
+            "type": "separator",
+            "settings": {
+              "title": "Shipping"
+            }
+          },
+          "9062fa2c-3b1e-44e5-bd92-49e49c3bb803": {
+            "type": "question",
+            "settings": {
+              "title": "Do you ship overseas?",
+              "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            }
+          },
+          "304767a2-40ba-43cc-ae7b-f9a17eec44a1": {
+            "type": "question",
+            "settings": {
+              "title": "How long will it take to get my order?",
+              "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            }
+          },
+          "be1c5ae8-27a9-4f3e-a095-d9e6e1970cc5": {
+            "type": "question",
+            "settings": {
+              "title": "What shipping carriers do you use?",
+              "answer": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
+            }
+          },
+          "1f0b1261-ea16-4f51-919d-930bb1cc36d4": {
+            "type": "separator",
+            "settings": {
+              "title": "Product"
+            }
+          },
+          "977cf4f1-c264-4a7d-a685-0af02b0b3183": {
+            "type": "question",
+            "settings": {
+              "title": "Can I return my product?",
+              "answer": "<p>We always aim for make sure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.<\/p>"
+            }
+          },
+          "55f65f69-52c1-4ac3-85fe-0ad792d9c3c5": {
+            "type": "question",
+            "settings": {
+              "title": "Can I get my product personalized?",
+              "answer": "<p>It depends on the creator and the product. All options are outlined on the product page, so look out for customization options there.<\/p>"
+            }
+          },
+          "ca50883b-86cf-4d35-8a7f-2e2cc71c9c44": {
+            "type": "separator",
+            "settings": {
+              "title": "Other"
+            }
+          },
+          "f015a58f-2d25-49ce-84f3-cca7129a5fe1": {
+            "type": "question",
+            "settings": {
+              "title": "Any question?",
+              "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "a1b7fb2f-2972-4e87-bb21-5edf3e713e96",
+          "9062fa2c-3b1e-44e5-bd92-49e49c3bb803",
+          "304767a2-40ba-43cc-ae7b-f9a17eec44a1",
+          "be1c5ae8-27a9-4f3e-a095-d9e6e1970cc5",
+          "1f0b1261-ea16-4f51-919d-930bb1cc36d4",
+          "977cf4f1-c264-4a7d-a685-0af02b0b3183",
+          "55f65f69-52c1-4ac3-85fe-0ad792d9c3c5",
+          "ca50883b-86cf-4d35-8a7f-2e2cc71c9c44",
+          "f015a58f-2d25-49ce-84f3-cca7129a5fe1"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "order": [
+      "main",
+      "36659651-c1ec-4a4a-a848-90893ea5c474"
+    ]
+  }

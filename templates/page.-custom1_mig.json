@@ -1,0 +1,135 @@
+{
+    "layout": "theme.liquid",
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "35457926-d91d-4146-a3f6-7324eeecb439": {
+        "type": "page-slider3",
+        "blocks": {
+          "template--16031026413739__35457926-d91d-4146-a3f6-7324eeecb439-1674311583afb94a3e-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1.png",
+              "apply_overlay": false,
+              "content_position": "bottomLeft",
+              "subheading": "Slide title",
+              "title": "Tell your story",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "template--16031026413739__35457926-d91d-4146-a3f6-7324eeecb439-1674311583afb94a3e-0"
+        ],
+        "settings": {
+          "slider_location": "0",
+          "show_slider": true,
+          "show_fullscreen": false,
+          "show_arrow": false,
+          "autoplay": true,
+          "cycle_speed": 5,
+          "text_color": "#ffffff",
+          "button_color": "#363636",
+          "button_background": "#ffffff"
+        }
+      },
+      "5c8a6402-ecaf-40d6-be5e-c7224b44bf7e": {
+        "type": "page-timeline3",
+        "blocks": {
+          "template--16031026413739__5c8a6402-ecaf-40d6-be5e-c7224b44bf7e-1674312010b0b10273-0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cupping_edited.png",
+              "link": "",
+              "apply_overlay": false,
+              "title": "Lymphatic Stimulation",
+              "subheading": "lymphatic drainage massage",
+              "heading": "Manual Lymphatic stimulation",
+              "content": ""
+            }
+          },
+          "template--16031026413739__5c8a6402-ecaf-40d6-be5e-c7224b44bf7e-1674312010b0b10273-1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/dm_glow_micro_face_women2.jpg",
+              "link": "",
+              "apply_overlay": true,
+              "title": "Microdermabrasion",
+              "subheading": "dmGlow Essentials",
+              "heading": "Mechanical Exfoliation with MegaPeel",
+              "content": "<p>Physically removes dead skin cells ~  Promotes new cell formation ~ Vacuum massage stimulates circulation & collagen production ~ Provides a safe and even exfoliation for all skin types<\/p>"
+            }
+          },
+          "template--16031026413739__5c8a6402-ecaf-40d6-be5e-c7224b44bf7e-1674312010b0b10273-2": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/OfficeShootDay_261.jpg",
+              "link": "",
+              "apply_overlay": true,
+              "title": "Clean Skincare",
+              "subheading": "dmGlow Essentials",
+              "heading": "Clean & clinical skincare",
+              "content": "<p>Effective active ingredients provides nutrients to nourish skin ~  Free of harmful ingredients ~ Helps to reduce inflammation ~ Personalized skincare regimens available with our condition specific products<\/p><p><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "template--16031026413739__5c8a6402-ecaf-40d6-be5e-c7224b44bf7e-1674312010b0b10273-0",
+          "template--16031026413739__5c8a6402-ecaf-40d6-be5e-c7224b44bf7e-1674312010b0b10273-1",
+          "template--16031026413739__5c8a6402-ecaf-40d6-be5e-c7224b44bf7e-1674312010b0b10273-2"
+        ],
+        "settings": {
+          "enable": true,
+          "text_color": "#ffffff"
+        }
+      },
+      "14cba277-8f0d-40b9-a9de-8739d401f487": {
+        "type": "page-contact-template",
+        "blocks": {
+          "268af2d2-2cce-4a3c-b677-34ad72661aac": {
+            "type": "text",
+            "settings": {
+              "title": "Business Name",
+              "use_long_text": false,
+              "is_required": true
+            }
+          },
+          "9bbb0bf1-e4c5-42ad-944d-b14dc9d5cb44": {
+            "type": "text",
+            "settings": {
+              "title": "Phone Number (optional)",
+              "use_long_text": false,
+              "is_required": false
+            }
+          },
+          "124b9205-1e70-4980-8c32-590609f344e8": {
+            "type": "dropdown",
+            "settings": {
+              "title": "I would like to learn more about",
+              "values": "MegaPeel EX Microdermabrasion Machine, MiTama Microcurrent Device, The Pear 3D Skin Scanner, dmGlow Signature Treatment, dmSkincare, Professional Protocols, Other"
+            }
+          }
+        },
+        "block_order": [
+          "268af2d2-2cce-4a3c-b677-34ad72661aac",
+          "9bbb0bf1-e4c5-42ad-944d-b14dc9d5cb44",
+          "124b9205-1e70-4980-8c32-590609f344e8"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "order": [
+      "main",
+      "35457926-d91d-4146-a3f6-7324eeecb439",
+      "5c8a6402-ecaf-40d6-be5e-c7224b44bf7e",
+      "14cba277-8f0d-40b9-a9de-8739d401f487"
+    ]
+  }
